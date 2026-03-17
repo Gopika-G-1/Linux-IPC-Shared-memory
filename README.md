@@ -51,6 +51,7 @@ int main()
 
 
 ## OUTPUT
+<img width="750" height="462" alt="image" src="https://github.com/user-attachments/assets/f40e076d-ea07-4d1e-b4e8-0c3359ad1e63" />
 
 
 # RESULT:
